@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP
+D Connector Europe 64 contacts ranges A,B
+K connector DIN
+F  ~
+$ENDCMP
+#
+#End Doc Library
