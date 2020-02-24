@@ -1296,13 +1296,13 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x08 J6
 U 1 1 5E408107
-P 800 7250
-F 0 "J6" H 718 6625 50  0000 C CNN
-F 1 "NK01B" H 718 6716 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 800 7250 50  0001 C CNN
-F 3 "https://threeneurons.wordpress.com/nixie-power-supply/hv-supply-kit/" H 800 7250 50  0001 C CNN
-	1    800  7250
-	-1   0    0    1   
+P 800 7150
+F 0 "J6" H 718 6525 50  0000 C CNN
+F 1 "NK01B" H 718 6616 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 800 7150 50  0001 C CNN
+F 3 "https://threeneurons.wordpress.com/nixie-power-supply/hv-supply-kit/" H 800 7150 50  0001 C CNN
+	1    800  7150
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	1000 7550 1400 7550

@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name IGG_64_breakout)(type KiCad)(uri D:/Dropbox/Projects/64nixie/IGG_64_breakout.pretty)(options "")(descr ""))
+  (lib (name IGG_64_breakout)(type KiCad)(uri D:/Dropbox/Projects/64nixie/IGG64/hardware/IGG_64_breakout.pretty)(options "")(descr ""))
 )
